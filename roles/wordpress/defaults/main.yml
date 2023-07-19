@@ -1,2 +1,5 @@
 ---
 # defaults file for wordpress
+wp_mysql_db: dbname
+wp_mysql_user: dbuser
+wp_mysql_password: dbpassword
